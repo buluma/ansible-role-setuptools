@@ -16,8 +16,6 @@ molecule:
     matrix:
       - image: "alpine-openrc"
         tag: "latest"
-      - image: "amazonlinux"
-        tag: "latest"
       - image: "enterpriselinux"
         tag: "7"
       - image: "enterpriselinux"

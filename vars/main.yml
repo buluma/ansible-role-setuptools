@@ -1,6 +1,7 @@
 ---
 # vars file for core_dependencies
 
+# TODO: Strip to bare minimum
 core_dependencies_shared_packages:
   - acl
   - at
