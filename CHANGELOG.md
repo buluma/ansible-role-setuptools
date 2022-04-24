@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.1](https://github.com/buluma/ansible-role-setuptools/tree/v0.1.1) (2022-04-16)
+
+[Full Changelog](https://github.com/buluma/ansible-role-setuptools/compare/v0.1.0...v0.1.1)
+
 ## [v0.1.0](https://github.com/buluma/ansible-role-setuptools/tree/v0.1.0) (2022-04-16)
 
 [Full Changelog](https://github.com/buluma/ansible-role-setuptools/compare/b256b546ba856af9fc587be73dbc18568f792592...v0.1.0)
