@@ -1,5 +1,5 @@
 ---
-# handlers file for core_dependencies
+# handlers file for setuptools
 
 - name: gather facts
   ansible.builtin.setup:

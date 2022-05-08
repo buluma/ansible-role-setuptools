@@ -1,9 +1,9 @@
 ---
-# tasks file for core_dependencies
+# tasks file for setuptools
 
 - name: install packages
   ansible.builtin.package:
-    name: "{{ core_dependencies }}"
+    name: "{{ setuptools }}"
     state: present
     update_cache: yes
   notify:
@@ -14,7 +14,7 @@
 
 - name: try to install pip packages
   ansible.builtin.pip:
-    name: "{{ core_dependencies_pip_packages }}"
+    name: "{{ setuptools_pip_packages }}"
     state: present
   failed_when: no
   notify:
