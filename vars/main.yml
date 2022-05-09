@@ -1,7 +1,6 @@
 ---
 # vars file for setuptools
 
-# TODO: Strip to bare minimum
 setuptools_shared_packages:
   - acl
   - at
@@ -19,7 +18,6 @@ _setuptools_packages:
     - subversion
     - xz
   Amazon-2018:
-    # - iproute
     - python-pip
     - python-setuptools
     - shadow-utils
