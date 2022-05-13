@@ -6,6 +6,7 @@
 
 **Closed issues:**
 
+- Strip to bare minimum [\#2](https://github.com/buluma/ansible-role-setuptools/issues/2)
 - Add to tracker [\#1](https://github.com/buluma/ansible-role-setuptools/issues/1)
 
 ## [v0.1.1](https://github.com/buluma/ansible-role-setuptools/tree/v0.1.1) (2022-04-16)
