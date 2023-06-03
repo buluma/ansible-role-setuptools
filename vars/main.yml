@@ -73,7 +73,7 @@ _setuptools_packages:
     - subversion
     - xz
 
-setuptools_packages: "{{ _setuptools_packages[ansible_distribution ~ '-' ~ ansible_distribution_major_version] | default(_setuptools_packages[ansible_os_family ~ '-' ~ ansible_distribution_major_version] | default(_setuptools_packages[ansible_os_family] )) }}"
+setuptools_packages: "{{ _setuptools_packages[ansible_distribution ~ '-' ~ ansible_distribution_major_version] | default(_setuptools_packages[ansible_os_family ~ '-' ~ ansible_distribution_major_version] | default(_setuptools_packages[ansible_os_family])) }}"
 
 setuptools: "{{ setuptools_shared_packages + setuptools_packages }}"
 
