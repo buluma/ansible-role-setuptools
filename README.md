@@ -2,9 +2,9 @@
 
 Install dependecies to support the Ansible setuptools modules.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-setuptools/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-setuptools/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-setuptools/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-setuptools)|[![quality](https://img.shields.io/ansible/quality/58816)](https://galaxy.ansible.com/buluma/setuptools)|[![downloads](https://img.shields.io/ansible/role/d/58816)](https://galaxy.ansible.com/buluma/setuptools)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-setuptools.svg)](https://github.com/buluma/ansible-role-setuptools/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-setuptools.svg)](https://github.com/buluma/ansible-role-setuptools/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-setuptools.svg)](https://github.com/buluma/ansible-role-setuptools/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-setuptools/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-setuptools/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-setuptools/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-setuptools)|[![downloads](https://img.shields.io/ansible/role/d/4835)](https://galaxy.ansible.com/buluma/setuptools)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-setuptools.svg)](https://github.com/buluma/ansible-role-setuptools/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-setuptools.svg)](https://github.com/buluma/ansible-role-setuptools/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-setuptools.svg)](https://github.com/buluma/ansible-role-setuptools/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
