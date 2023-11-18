@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-setuptools/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-setuptools/compare/v0.1.4...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#10](https://github.com/buluma/ansible-role-setuptools/issues/10)
+- Update action [\#9](https://github.com/buluma/ansible-role-setuptools/issues/9)
+
 ## [v0.1.4](https://github.com/buluma/ansible-role-setuptools/tree/v0.1.4) (2022-08-16)
 
 [Full Changelog](https://github.com/buluma/ansible-role-setuptools/compare/v0.1.3...v0.1.4)
