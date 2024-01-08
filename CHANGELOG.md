@@ -1,14 +1,18 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-setuptools/tree/HEAD)
+## [v0.1.6](https://github.com/buluma/ansible-role-setuptools/tree/v0.1.6) (2024-01-02)
 
-[Full Changelog](https://github.com/buluma/ansible-role-setuptools/compare/v0.1.5...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-setuptools/compare/v0.1.5...v0.1.6)
 
 **Closed issues:**
 
 - Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#13](https://github.com/buluma/ansible-role-setuptools/issues/13)
 - Update action [\#12](https://github.com/buluma/ansible-role-setuptools/issues/12)
 - rebuild action [\#11](https://github.com/buluma/ansible-role-setuptools/issues/11)
+
+**Merged pull requests:**
+
+- Bump actions/checkout from 3 to 4 [\#16](https://github.com/buluma/ansible-role-setuptools/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v0.1.5](https://github.com/buluma/ansible-role-setuptools/tree/v0.1.5) (2023-12-24)
 
