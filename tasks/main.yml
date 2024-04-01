@@ -17,6 +17,15 @@
     name: "{{ setuptools_pip_packages }}"
     state: present
   failed_when: false
+
+# TODO: Pinning due to CVE-2024-3094
+- name: Debian | Try to install xz-utils packages
+  ansible.builtin.pip:
+    name: xz-utils==5.4.6
+    state: present
+  when: ansible_os_family | lower == "debian"
+  changed_when: false
+  failed_when: false
   notify:
     - Gather facts
 

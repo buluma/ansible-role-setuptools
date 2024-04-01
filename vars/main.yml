@@ -36,7 +36,7 @@ _setuptools_packages:
     - passwd
     - python3-apt
     - subversion
-    - xz-utils
+    # - xz-utils
   RedHat-7:
     - iproute
     - libselinux-python
