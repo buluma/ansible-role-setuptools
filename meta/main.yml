@@ -13,8 +13,8 @@ galaxy_info:
         - all
     - name: EL
       versions:
-        - "7"
         - "8"
+        - "9"
     - name: Debian
       versions:
         - all
@@ -25,9 +25,6 @@ galaxy_info:
       versions:
         - all
     - name: Ubuntu
-      versions:
-        - all
-    - name: Kali
       versions:
         - all
   galaxy_tags:
