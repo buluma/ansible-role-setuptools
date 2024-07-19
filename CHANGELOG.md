@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-setuptools/tree/HEAD)
+## [v24.7.14](https://github.com/buluma/ansible-role-setuptools/tree/v24.7.14) (2024-07-14)
 
-[Full Changelog](https://github.com/buluma/ansible-role-setuptools/compare/v24.3.31...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-setuptools/compare/v24.3.31...v24.7.14)
 
 **Merged pull requests:**
 
