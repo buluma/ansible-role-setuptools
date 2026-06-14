@@ -23,7 +23,7 @@
   ansible.builtin.pip:
     name: xz-utils==5.4.6
     state: present
-  when: ansible_os_family | lower == "debian"
+  when: ansible_facts.os_family | lower == "debian"
   changed_when: false
   failed_when: false
   notify:
