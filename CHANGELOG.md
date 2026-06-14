@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-setuptools/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-setuptools/compare/v26.6.0...HEAD)
+
+**Closed issues:**
+
+- Pinning due to CVE-2024-3094 [\#27](https://github.com/buluma/ansible-role-setuptools/issues/27)
+
 ## [v26.6.0](https://github.com/buluma/ansible-role-setuptools/tree/v26.6.0) (2026-06-14)
 
 [Full Changelog](https://github.com/buluma/ansible-role-setuptools/compare/v24.7.14...v26.6.0)
