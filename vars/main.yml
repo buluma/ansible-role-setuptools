@@ -74,8 +74,8 @@ _setuptools_packages:
     - xz
 
 setuptools_packages:
-  "{{ _setuptools_packages[ansible_facts.distribution ~ '-' ~ ansible_facts.distribution_major_version] | default(_setuptools_packages[ansible_facts.os_family ~
-  '-' ~ ansible_facts.distribution_major_version] | default(_setuptools_packages[ansible_facts.os_family])) }}"
+  "{{ _setuptools_packages[ansible_facts['distribution'] ~ '-' ~ ansible_facts['distribution_major_version']] | default(_setuptools_packages[ansible_facts['os_family'] ~
+  '-' ~ ansible_facts['distribution_major_version']] | default(_setuptools_packages[ansible_facts['os_family']])) }}"
 
 setuptools: "{{ setuptools_shared_packages + setuptools_packages }}"
 
